@@ -18,7 +18,7 @@ const CaseStudies: React.FC<CaseStudiesProps> = ({ darkMode }) => {
     "challenge": "Reduce physician burnout and improve accuracy by automating the clinical documentation process from patient interactions.",
     "solution": "Deployed a natural language processing (NLP) model to transcribe and summarize doctor-patient conversations into structured clinical notes in real-time.",
     "results": ["80% reduction in manual documentation time", "95% accuracy in clinical note generation", "Improved physician satisfaction by 50%"],
-    "image": "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&w=800"}
+    "image": "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "category": "Healthcare",
